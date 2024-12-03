@@ -1,4 +1,5 @@
 Ekran Kaydıdır
+<br><br>
 #Netflix Sitesinin arayüzüne benzerdir
 <br><br>
 #Arayüz çok sade bir şekilde tasarlanmıştır 
