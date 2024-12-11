@@ -3,6 +3,7 @@
 #Netflix Sitesinin arayüzüne benzerdir
 <br><br>
 ◇ Özellikler
+<br>
 #Arayüz çok sade bir şekilde tasarlanmıştır 
 <br>
 ❖Carousel yapısı
