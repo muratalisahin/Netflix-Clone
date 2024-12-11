@@ -4,17 +4,22 @@
 <br><br>
 ◇ Özellikler
 #Arayüz çok sade bir şekilde tasarlanmıştır 
+<br>
 ❖Carousel yapısı
+<br>
 ❖Acordion yapı
 <br><br>
 <h3>⁃ Kullanılan Teknolojiler </h3>
 ❖ html
+<br>
 ❖ CSS
 
 
-<br><br>
+
 Ekran Kaydıdır
+<br><br>
 ![alt text](<Ekran Kaydı-1.gif>)
+
 # Netflix-Clone
 
 ⁃ Soru,görüş ve önerileriniz için iletiş adresim muratalisahin61@gmail.com
