@@ -22,4 +22,4 @@ Ekran Kaydıdır
 
 # Netflix-Clone
 
-⁃ Soru,görüş ve önerileriniz için iletiş adresim muratalisahin61@gmail.com
+⁃ Soru,görüş ve önerileriniz için iletişim adresim muratalisahin61@gmail.com
